@@ -61,7 +61,7 @@ font-2 = "feather:size=12;3"
 
 modules-left =  bspwm
 modules-center = date 
-modules-right =  wireless-network sep pulseaudio sep battery sep powermenu
+modules-right =  pulseaudio sep
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
@@ -89,10 +89,11 @@ font-0 = "Iosevka Nerd Font:size=10;4"
 font-1 = "Iosevka Nerd Font:size=10;3"
 font-2 = "feather:size=12;3"
 
+
+
 modules-left =  bspwm
 modules-center = date 
-modules-right =  pulseaudio sep
-
+modules-right =  wireless-network sep pulseaudio sep battery sep powermenu
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
