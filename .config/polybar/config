@@ -1,7 +1,4 @@
 
-
-;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-
 [colors]
 
 ;;background = #212B30
@@ -29,7 +26,6 @@ brown = #AC8476
 indigo = #6C77BB
 gray = #9E9E9E
 blue-gray = #6D8895
-
 
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
@@ -61,7 +57,7 @@ font-2 = "feather:size=12;3"
 
 modules-left =  bspwm
 modules-center = date 
-modules-right =  pulseaudio sep
+modules-right = wireless-network sep pulseaudio sep battery sep powermenu
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
@@ -93,7 +89,7 @@ font-2 = "feather:size=12;3"
 
 modules-left =  bspwm
 modules-center = date 
-modules-right =  wireless-network sep pulseaudio sep battery sep powermenu
+modules-right = pulseaudio sep battery sep 
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
@@ -129,14 +125,14 @@ label-empty-padding = 2
 label-separator = |
 
 ; ws-icon-[0-9]+ = label;icon
-ws-icon-0 = I;1
-ws-icon-1 = II;2
-ws-icon-2 = III;3
-ws-icon-3 = IV;4
-ws-icon-4 = V;5
-ws-icon-5 = VI;6
-ws-icon-6 = VII;7
-ws-icon-7 = VIII;8
+ws-icon-0 = I;
+ws-icon-1 = II;
+ws-icon-2 = III;
+ws-icon-3 = IV;
+ws-icon-4 = V;
+ws-icon-5 = VI;
+ws-icon-6 = VII;
+ws-icon-7 = VIII;
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
@@ -288,7 +284,7 @@ type = internal/network
 interface = wlp2s0
 
 interval = 3.0
-udspeed-minwidth = 5
+udspeed-minwidth = 3
 accumulate-stats = true
 unknown-as-up = true
 
@@ -297,7 +293,7 @@ format-disconnected = <label-disconnected>
 format-packetloss = <animation-packetloss> <label-connected>
 
 
-label-connected = %essid%  %downspeed:9%
+label-connected = %essid%%upspeed%%downspeed:9%
 label-connected-foreground = ${colors.blue}
 
 label-disconnected = not connected
@@ -305,16 +301,16 @@ label-disconnected-foreground = ${colors.red}
 
 
 ramp-signal-0 = 
-ramp-signal-1 = 
-ramp-signal-2 = 
-ramp-signal-3 = 
-ramp-signal-4 = 
-ramp-signal-5 = 
+ramp-signal-1 =  1
+ramp-signal-2 =  2
+ramp-signal-3 =  3
+ramp-signal-4 =  4
+ramp-signal-5 =  5
 ramp-signal-foreground = ${colors.green}
 
-animation-packetloss-0 = shit
-animation-packetloss-0-foreground = #ffa64c
-animation-packetloss-1 = hays
-animation-packetloss-1-foreground = #000000
+;;animation-packetloss-0 = shit
+;;animation-packetloss-0-foreground = #ffa64c
+;;animation-packetloss-1 = hays
+;;animation-packetloss-1-foreground = #000000
 
 animation-packetloss-framerate = 500
