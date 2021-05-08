@@ -1,0 +1,5 @@
+IN-USE  BSSID              SSID             MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+[32m [0m       [32mE6:21:8B:DE:90:77[0m  [32mrealme 5 Pro[0m     [32mInfra[0m  [32m1[0m     [32m117 Mbit/s[0m  [32m100[0m     [32m▂▄▆█[0m  [32mWPA2[0m      
+[36m [0m       [36m0C:80:63:FA:A3:5F[0m  [36mMacy's Network[0m   [36mInfra[0m  [36m6[0m     [36m130 Mbit/s[0m  [36m30[0m      [36m▂___[0m  [36mWPA2[0m      
+[36m [0m       [36m28:D1:27:F7:64:BE[0m  [36mfunction 8_plus[0m  [36mInfra[0m  [36m1[0m     [36m130 Mbit/s[0m  [36m29[0m      [36m▂___[0m  [36mWPA1 WPA2[0m 
+[36m [0m       [36m0C:54:A5:53:5D:F3[0m  [36m5d29ce[0m           [36mInfra[0m  [36m11[0m    [36m65 Mbit/s[0m   [36m29[0m      [36m▂___[0m  [36mWPA1 WPA2[0m 

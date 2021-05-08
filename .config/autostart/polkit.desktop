@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=polkit agent
+Comment=polkit agent
+Exec=/usr/lib/polkit-1-dde/dde-polkit-agent
+Terminal=false
+Type=Application
+NoDisplay=true

@@ -1,0 +1,4 @@
+050321
+    Mount mobile phone
+    $ sudo pacman -S mtpfs gvfs-mtp
+    $ sudo pacman -Sy gvfs-gphoto2

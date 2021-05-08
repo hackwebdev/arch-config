@@ -1,0 +1,11 @@
+open_with 2
+open_with code
+filter 
+rename 
+rename testing
+rename test
+rename tested
+shell touch test
+shell mkdir example
+delete
+q

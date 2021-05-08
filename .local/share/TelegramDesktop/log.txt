@@ -1,0 +1,138 @@
+[2021.05.07 21:54:52] Launched version: 2007004, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.05.07 21:54:52] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.05.07 21:54:52] Initial working dir: /home/eckzen/
+[2021.05.07 21:54:52] Working dir: /home/eckzen/.local/share/TelegramDesktop/
+[2021.05.07 21:54:52] Command line: telegram-desktop
+[2021.05.07 21:54:52] Executable path before check: /usr/bin/telegram-desktop
+[2021.05.07 21:54:52] Logs started
+[2021.05.07 21:54:52] Launcher filename: appimagekit_3a48058ef277d45ae2228089429c0259-Telegram_Desktop.desktop
+[2021.05.07 21:54:52] Connecting local socket to /run/user/1000/6e1f1c7323d2f69904fc672b83d26a85-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.05.07 21:54:52] This is the only instance of Telegram, starting server and app...
+[2021.05.07 21:54:52] Moved logging from '/home/eckzen/.local/share/TelegramDesktop/log_start1.txt' to '/home/eckzen/.local/share/TelegramDesktop/log.txt'!
+[2021.05.07 21:54:52] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2021.05.07 21:54:52] Primary screen DPI: 96.2685
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.05.07 21:54:52] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.07 21:54:52] App Info: reading settings...
+[2021.05.07 21:54:52] App Info: reading encrypted settings...
+[2021.05.07 21:54:52] Lang Info: Loaded cached, keys: 3112
+[2021.05.07 21:54:52] OpenAL Logging Level: (not set)
+[2021.05.07 21:54:52] Audio Playback Devices: Built-in Audio Analog Stereo
+[2021.05.07 21:54:52] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2021.05.07 21:54:52] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2021.05.07 21:54:52] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2021.05.07 21:54:52] Not using D-Bus global menu.
+[2021.05.07 21:54:52] Not using Unity launcher counter.
+[2021.05.07 21:54:52] System tray available: [FALSE]
+[2021.05.07 21:54:52] App Info: reading accounts info...
+[2021.05.07 21:54:52] App Info: reading encrypted info...
+[2021.05.07 21:54:52] App Info: reading map...
+[2021.05.07 21:54:52] App Info: reading encrypted map...
+[2021.05.07 21:54:52] App Info: reading encrypted user settings...
+[2021.05.07 21:54:52] App Info: encrypted user settings read.
+[2021.05.07 21:54:52] App Info: reading encrypted mtp data...
+[2021.05.07 21:54:52] MTP Info: read keys, current: 3, to destroy: 0
+[2021.05.07 21:54:52] Map read time: 0
+[2021.05.07 21:54:52] App Info: reading encrypted mtp config...
+[2021.05.07 21:54:52] TCP Error: network - Network unreachable
+[2021.05.07 21:54:52] HTTP Error: network error 99 - Network unreachable
+[2021.05.07 21:54:52] Export Info: Destroy top bar by controller removal.
+[2021.05.07 21:54:53] Message Info: bad message notification received (error_code 33) for msg_id = 6959546514854409944, seq_no = 32
+[2021.05.07 21:54:53] Message Info: bad message notification received, msgId 6959546514854409944, error_code 33
+[2021.05.07 21:54:53] TCP Error: network - Network unreachable
+[2021.05.07 21:54:53] HTTP Error: network error 99 - Network unreachable
+[2021.05.07 21:54:55] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 21:54:57] Audio Info: Closing audio playback device.
+[2021.05.07 21:56:07] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 21:56:09] Audio Info: Closing audio playback device.
+[2021.05.07 21:56:25] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 21:56:27] Audio Info: Closing audio playback device.
+[2021.05.07 22:00:59] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:01:01] Audio Info: Closing audio playback device.
+[2021.05.07 22:07:20] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:07:22] Audio Info: Closing audio playback device.
+[2021.05.07 22:07:38] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:07:40] Audio Info: Closing audio playback device.
+[2021.05.07 22:07:47] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:07:49] Audio Info: Closing audio playback device.
+[2021.05.07 22:07:59] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:08:01] Audio Info: Closing audio playback device.
+[2021.05.07 22:09:50] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:09:52] Audio Info: Closing audio playback device.
+[2021.05.07 22:09:58] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:10:00] Audio Info: Closing audio playback device.
+[2021.05.07 22:10:04] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:10:06] Audio Info: Closing audio playback device.
+[2021.05.07 22:11:20] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:11:22] Audio Info: Closing audio playback device.
+[2021.05.07 22:15:07] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:15:09] Audio Info: Closing audio playback device.
+[2021.05.07 22:15:17] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:15:19] Audio Info: Closing audio playback device.
+[2021.05.07 22:15:25] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:15:27] Audio Info: Closing audio playback device.
+[2021.05.07 22:16:58] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:17:00] Audio Info: Closing audio playback device.
+[2021.05.07 22:19:13] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:19:15] Audio Info: Closing audio playback device.
+[2021.05.07 22:19:24] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:19:26] Audio Info: Closing audio playback device.
+[2021.05.07 22:19:54] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:19:56] Audio Info: Closing audio playback device.
+[2021.05.07 22:24:56] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:24:58] Audio Info: Closing audio playback device.
+[2021.05.07 22:26:42] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:26:44] Audio Info: Closing audio playback device.
+[2021.05.07 22:26:51] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:26:53] Audio Info: Closing audio playback device.
+[2021.05.07 22:28:09] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:28:11] Audio Info: Closing audio playback device.
+[2021.05.07 22:33:38] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:33:40] Audio Info: Closing audio playback device.
+[2021.05.07 22:33:45] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:33:46] Audio Info: Closing audio playback device.
+[2021.05.07 22:34:54] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:34:56] Audio Info: Closing audio playback device.
+[2021.05.07 22:35:04] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:35:06] Audio Info: Closing audio playback device.
+[2021.05.07 22:35:14] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:35:16] Audio Info: Closing audio playback device.
+[2021.05.07 22:36:06] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:36:08] Audio Info: Closing audio playback device.
+[2021.05.07 22:36:12] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:36:14] Audio Info: Closing audio playback device.
+[2021.05.07 22:37:44] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:37:46] Audio Info: Closing audio playback device.
+[2021.05.07 22:42:15] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:42:17] Audio Info: Closing audio playback device.
+[2021.05.07 22:42:25] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:42:27] Audio Info: Closing audio playback device.
+[2021.05.07 22:42:46] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:42:48] Audio Info: Closing audio playback device.
+[2021.05.07 22:48:15] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:48:17] Audio Info: Closing audio playback device.
+[2021.05.07 22:51:42] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 22:51:44] Audio Info: Closing audio playback device.
+[2021.05.07 23:00:05] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:00:07] Audio Info: Closing audio playback device.
+[2021.05.07 23:03:37] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:03:39] Audio Info: Closing audio playback device.
+[2021.05.07 23:05:30] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:05:32] Audio Info: Closing audio playback device.
+[2021.05.07 23:08:27] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:08:29] Audio Info: Closing audio playback device.
+[2021.05.07 23:08:46] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:08:48] Audio Info: Closing audio playback device.
+[2021.05.07 23:12:16] Audio Info: recreating audio device and reattaching the tracks
+[2021.05.07 23:12:18] Audio Info: Closing audio playback device.
+[2021.05.07 23:12:26] Api::Updates prevents quit, sending offline status...
